@@ -1,4 +1,6 @@
-// Function overloading means Multiple function with same name but different work according to their parameter or type
+// Function overloading means Multiple function have same name but different work according to their parameter or type
+
+// they are compile time polymorphism
 
 #include<iostream>
 using namespace std;
